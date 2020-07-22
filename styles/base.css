@@ -80,14 +80,14 @@ iframe {
   border-radius: 50%;
 }
 
-.banner-text (
+.banner-text {
 display: inline-block;
 margin: auto;
 padding: 3rem;
 font-size: 2.5re,;
 width: auto;
-background:#ff0000
-color:#00ff00
-border: 15px solid #a9a9a9
+background:#ff0000;
+color:#00ff00;
+border: 15px solid #a9a9a9;
 }
 
