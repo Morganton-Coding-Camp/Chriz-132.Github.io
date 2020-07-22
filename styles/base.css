@@ -67,7 +67,8 @@ iframe {
   flex-grow: 1;
   padding: 1rem;
 }
-
+.banner {
+  background: url('../images//low-angle-view-of-spiral-staircase-against-black-background-247676-2.jpg');
 .profile-img {
   max-height: 50vh;
   width: auto;
